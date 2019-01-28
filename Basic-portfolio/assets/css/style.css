@@ -240,7 +240,7 @@ input[type=submit]{
 }
 
 .FormMainContainer{
-  height: 250px;
+  height: 450px;
 }
 
 @media (max-width: 980px) {
@@ -260,6 +260,9 @@ input[type=submit]{
   body {
     background-color: rgba(54, 54, 49, 0.37);
     color: rgba(161, 160, 54, 0.541);
+  }
+  .FormMainContainer{
+    height: 350px;
   }
   .formInputField {
     width: 100%;
